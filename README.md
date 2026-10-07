@@ -4,6 +4,10 @@ An AI-powered personalized interview platform built for Assignment 3. The platfo
 
 ---
 
+# Live Demo 
+
+https://ai-interview-accelerator.onrender.com
+
 ## 🌟 Core Features
 
 1. **Role Analysis (JD)**
